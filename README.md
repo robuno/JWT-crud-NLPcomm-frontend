@@ -14,6 +14,17 @@ External libraries and packages used for frontend:
 
 
 
+## Screenshots
+
+![Screenshot_home](https://raw.githubusercontent.com/robuno/JWT-crud-NLPcomm-frontend/main/screenshots/ss_home.png)
+
+![Screenshot_User Profile](https://raw.githubusercontent.com/robuno/JWT-crud-NLPcomm-frontend/main/screenshots/ss_profile.png)
+
+![Screenshot_Login](https://raw.githubusercontent.com/robuno/JWT-crud-NLPcomm-frontend/main/screenshots/ss_login.png)
+
+![Screenshot_Register](https://raw.githubusercontent.com/robuno/JWT-crud-NLPcomm-frontend/main/screenshots/ss_register.png)
+
+  
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
