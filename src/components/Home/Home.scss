@@ -1,0 +1,28 @@
+
+.home-page #home-middle-menu {
+    // background-color: rgb(177, 177, 241);
+    padding: 2rem 0;
+    padding-right: 1rem;
+}
+
+.home-page #home-right-menu {
+    border-left: 1px solid #2C4063;
+    padding: 2rem 0;
+    padding-left: 1rem;
+}
+
+.home-page #home-right-menu .right-section{
+    padding: 1rem 0;
+    border-bottom: 1px solid #cccccc;
+}
+
+.home-page #home-right-menu .right-section ul{
+    text-align: left;
+    list-style-type: none;
+}
+
+.home-page #home-right-menu .right-section ul li a{
+    list-style-type: none;
+    margin-left: 8px;
+    color:#2C4063;
+}

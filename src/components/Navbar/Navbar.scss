@@ -1,0 +1,31 @@
+.navbar {
+    border-bottom: 4px solid #2C4063;
+}
+
+.navbar-custom {
+    padding: 0px;
+    background-color: #4C6DA8;
+}
+
+.navbar-nav {
+    font-size: 1.4rem;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #2C4063;
+    transition: 1s;
+    
+}
+
+.navbar-nav .nav-link.active {
+    background-color: #2C4063;
+}
+
+
+.navbar-nav, .me-auto-endbar {
+    justify-content: end;
+}

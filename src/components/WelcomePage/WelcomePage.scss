@@ -1,0 +1,58 @@
+.login-register-forms-main {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+ 
+.login-form, .register-form{
+    margin: 0 auto;
+    padding: 40px;
+    margin-bottom: 20px;
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    background-color: #DFE4EE;
+    border:1px solid #868686;
+}
+
+
+.login-form label, .register-form label{
+    font-weight: 600;
+    display: block;
+    margin: 6px;
+}
+
+.auth-form-container .login-form button{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #7089B0;
+    padding: 4px 12px;
+    border-radius: 3px;
+}
+
+.auth-form-container .register-form button{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #67A54B;
+    padding: 8px 16px;
+    border-radius: 3px;
+}
+
+
+.auth-form-container .login-form button:hover {
+    background-color: #074786;
+    transition: 1s;
+}
+
+.form-toggler {
+    color: #fff;
+    padding: 8px 16px;
+    background-color: #074786;
+    border-radius: 2px;
+}

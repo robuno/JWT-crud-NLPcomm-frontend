@@ -1,0 +1,41 @@
+.update-user-div .update-form{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.update-user-div .update-form label{
+    display: block;
+    margin-top: 10px;
+}
+
+.update-user-div .update-form button{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+
+    color: #fff;
+    background-color: #7089B0;
+    padding: 4px 8px;
+    border-radius: 2px;
+}
+
+.update-user-div #delete-user {
+    margin-top: -10px;
+    margin-bottom: 10px;
+    color: #fff;
+    background-color: rgb(177, 81, 81);
+    padding: 4px 8px;
+    border-radius: 2px;
+}
+
+.update-user-div .update-form button:hover {
+    background-color: #074786;
+    transition: 1s;
+    
+}
+
+
