@@ -6,7 +6,7 @@ This project combines Java Web Tokens(JWT) and CRUD applications with Java Sprin
 - [Backend Repo](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
 
 External libraries and packages used for frontend:
-- Axios
+- Axios (with interceptors)
 - Bootstrap/react-bootstrap
 - SweetAlert2
 - React-icons
