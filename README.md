@@ -3,7 +3,7 @@
 
 This project combines Java Web Tokens(JWT) and CRUD applications with Java SpringBoot3 + ReactJS + SpringSecurity6. The main purpose of this project is to provide a platform for the Turkish NLP community:
 - [Frontend Repo](https://github.com/robuno/JWT-crud-NLPcomm-frontend) (current page)
-- [Backend Repo](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+- [Backend Repo](https://github.com/robuno/JWT-crud-NLPcomm-backend)
 
 External libraries and packages used for frontend:
 - Axios (with interceptors)
